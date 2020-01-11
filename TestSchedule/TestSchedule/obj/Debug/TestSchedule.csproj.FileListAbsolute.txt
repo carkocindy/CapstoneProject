@@ -1,0 +1,60 @@
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\TestSchedule.exe.config
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\TestSchedule.exe
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\TestSchedule.pdb
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.Core.dll
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.dll
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Quartz.dll
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.pdb
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.xml
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.Core.pdb
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.Core.xml
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Quartz.pdb
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Quartz.xml
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csprojAssemblyReference.cache
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.Form1.resources
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.Properties.Resources.resources
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csproj.GenerateResource.cache
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csproj.CoreCompileInputs.cache
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csproj.CopyComplete
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.exe
+F:\Gladios\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.pdb
+J:\TestSchedule\TestSchedule\bin\Debug\TestSchedule.exe.config
+J:\TestSchedule\TestSchedule\bin\Debug\TestSchedule.exe
+J:\TestSchedule\TestSchedule\bin\Debug\TestSchedule.pdb
+J:\TestSchedule\TestSchedule\bin\Debug\Common.Logging.Core.dll
+J:\TestSchedule\TestSchedule\bin\Debug\Common.Logging.dll
+J:\TestSchedule\TestSchedule\bin\Debug\Quartz.dll
+J:\TestSchedule\TestSchedule\bin\Debug\Common.Logging.pdb
+J:\TestSchedule\TestSchedule\bin\Debug\Common.Logging.xml
+J:\TestSchedule\TestSchedule\bin\Debug\Common.Logging.Core.pdb
+J:\TestSchedule\TestSchedule\bin\Debug\Common.Logging.Core.xml
+J:\TestSchedule\TestSchedule\bin\Debug\Quartz.pdb
+J:\TestSchedule\TestSchedule\bin\Debug\Quartz.xml
+J:\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csprojAssemblyReference.cache
+J:\TestSchedule\TestSchedule\obj\Debug\TestSchedule.Form1.resources
+J:\TestSchedule\TestSchedule\obj\Debug\TestSchedule.Properties.Resources.resources
+J:\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csproj.GenerateResource.cache
+J:\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csproj.CoreCompileInputs.cache
+J:\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csproj.CopyComplete
+J:\TestSchedule\TestSchedule\obj\Debug\TestSchedule.exe
+J:\TestSchedule\TestSchedule\obj\Debug\TestSchedule.pdb
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\TestSchedule.exe.config
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\TestSchedule.exe
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\TestSchedule.pdb
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.Core.dll
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.dll
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Quartz.dll
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.pdb
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.xml
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.Core.pdb
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Common.Logging.Core.xml
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Quartz.pdb
+D:\Course\Đồ Án\TestSchedule\TestSchedule\bin\Debug\Quartz.xml
+D:\Course\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csprojAssemblyReference.cache
+D:\Course\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.Form1.resources
+D:\Course\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.Properties.Resources.resources
+D:\Course\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csproj.GenerateResource.cache
+D:\Course\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csproj.CoreCompileInputs.cache
+D:\Course\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.csproj.CopyComplete
+D:\Course\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.exe
+D:\Course\Đồ Án\TestSchedule\TestSchedule\obj\Debug\TestSchedule.pdb
