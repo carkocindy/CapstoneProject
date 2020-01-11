@@ -1,0 +1,22 @@
+<router-outlet></router-outlet>
+<h1>Demo Angular combined with .Net Core</h1>
+<table>
+  <ng-container *ngFor="let student of apiValues">
+    <tr>
+      <td>{{student.test1}}</td>
+      <td>
+        <ul>
+          <ng-container *ngFor="let monhoc of student.test3">
+            <li>
+              {{monhoc}}
+            </li>
+          </ng-container>
+        </ul>
+      </td>
+    </tr>
+  </ng-container>
+</table>
+
+<!--<ul>
+  <li *ngFor="let value of apiValues">{{value}}</li>
+</ul>-->

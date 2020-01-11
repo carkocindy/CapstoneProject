@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\bin\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.deps.json
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\bin\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.runtimeconfig.json
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\bin\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\bin\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.dll
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\bin\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.pdb
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.dll
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.pdb
