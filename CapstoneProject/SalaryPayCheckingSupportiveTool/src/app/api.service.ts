@@ -6,8 +6,8 @@ const httpOptions = {
   headers: new HttpHeaders({ 'Content-Type': 'application/json' }),
 };
 
-let apiUrl = "http://192.168.4.108:50000/api/";
-
+// let apiUrl = "http://192.168.4.108:50000/api/";
+let apiUrl
 
 @Injectable({
   providedIn: 'root'

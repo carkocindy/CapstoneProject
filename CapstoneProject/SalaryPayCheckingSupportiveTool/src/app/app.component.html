@@ -1,22 +1,20 @@
 <router-outlet></router-outlet>
-<h1>Demo Angular combined with .Net Core</h1>
-<table>
-  <ng-container *ngFor="let student of apiValues">
-    <tr>
-      <td>{{student.test1}}</td>
-      <td>
-        <ul>
-          <ng-container *ngFor="let monhoc of student.test3">
-            <li>
-              {{monhoc}}
-            </li>
-          </ng-container>
-        </ul>
-      </td>
-    </tr>
-  </ng-container>
-</table>
+<h2>Cấu hình công thức tính lương</h2>
 
-<!--<ul>
-  <li *ngFor="let value of apiValues">{{value}}</li>
-</ul>-->
+<p>Formula:
+  <button style=" margin-left: 10px;" (click)="addInput()">+</button>
+  <button style=" margin-left: 10px;" (click)="subInput()">-</button>
+  <button style=" margin-left: 10px;" (click)="mulInput()">x</button>
+  <button style=" margin-left: 10px;" (click)="divInput()">/</button>
+
+</p>
+
+<!--Make sure the form has the autocomplete function switched off:-->
+
+<ng-container *ngFor="let value of values; index as indexId">
+  <div class="autocomplete" style="float: left; width: 165px;">
+    {{value}}
+    <input (click)="linkRecommendation()" class="spcs" id="myInput{{indexId}}" type="text" name="myCountry"
+      placeholder="thành phần lương">
+  </div>
+</ng-container>

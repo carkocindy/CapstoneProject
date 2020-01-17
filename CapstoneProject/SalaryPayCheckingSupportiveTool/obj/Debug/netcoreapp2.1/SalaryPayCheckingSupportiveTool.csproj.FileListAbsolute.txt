@@ -3,7 +3,6 @@ C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupporti
 C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\bin\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.runtimeconfig.dev.json
 C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\bin\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.dll
 C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\bin\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.pdb
-C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.csprojAssemblyReference.cache
 C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.RazorAssemblyInfo.cache
 C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupporti
 C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.RazorTargetAssemblyInfo.cache
 C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.dll
 C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.pdb
+C:\Users\ADMIN\Desktop\CapstoneProject\CapstoneProject\SalaryPayCheckingSupportiveTool\obj\Debug\netcoreapp2.1\SalaryPayCheckingSupportiveTool.csprojAssemblyReference.cache
