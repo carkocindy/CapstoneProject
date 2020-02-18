@@ -1,0 +1,10 @@
+D:\Spring2020\CapstoneProject\SCPSProject\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.deps.json
+D:\Spring2020\CapstoneProject\SCPSProject\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.dll
+D:\Spring2020\CapstoneProject\SCPSProject\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+D:\Spring2020\CapstoneProject\SCPSProject\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+D:\Spring2020\CapstoneProject\SCPSProject\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+D:\Spring2020\CapstoneProject\SCPSProject\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.runtimeconfig.json
+D:\Spring2020\CapstoneProject\SCPSProject\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.runtimeconfig.dev.json
+D:\Spring2020\CapstoneProject\SCPSProject\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.pdb
+D:\Spring2020\CapstoneProject\SCPSProject\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
+D:\Spring2020\CapstoneProject\SCPSProject\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb
