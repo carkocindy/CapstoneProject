@@ -15,57 +15,58 @@ namespace TestSchedule
         public Form1()
         {
             InitializeComponent();
+            
         }
         Schedule sc = new Schedule();
+        ScheduleTwo sc2 = new ScheduleTwo();
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (sc.checkScheduleStarted() == false)
-            {
-                sc.Start(int.Parse(txtHour.Text), int.Parse(txtMinute.Text));
-                btnSchedule.Text = "Trạng thái chờ";
-            }
-            else
-            {
-                sc.Stop();
-                btnSchedule.Text = "Tiến hành chờ";
-            }
+
+                string key = txtKey.Text;
+                sc.Start(int.Parse(txtHour.Text), int.Parse(txtMinute.Text), key);
+
+                      
         }
 
-        private void btn30_Click(object sender, EventArgs e)
+        private void btnUpdate_Click(object sender, EventArgs e)
         {
-            int hour = DateTime.Now.Hour;
-            int minute = DateTime.Now.Minute;
-            int second;
-            bool loopCycle = true;
-            do
-            {
-                if (5 + DateTime.Now.Second > 60)
-                {
+            int hour = int.Parse(txtHour.Text);
+            int minute = int.Parse(txtMinute.Text);
+            string key = txtKey.Text;
+            sc.Update(hour, minute, key);
 
-                    second = (DateTime.Now.Second + 5) - 60;
-                }
-                else if (5 + DateTime.Now.Second == 60)
-                {
-                    second = 0;
-                }
-                else
-                {
-                    second = DateTime.Now.Second + 5;
-                }
-                if (sc.checkScheduleStarted() == false)
-                {
-                    sc.Start30(hour, minute, second);
-                    btn30.Text = "5 giây chờ làm việc";
-                    System.Threading.Thread.Sleep(5000);                    
-                }
-                else
-                {
-                    sc.Stop();
-                    btn30.Text = "5 giây";
-                    loopCycle = false;
-                }
-            } while (loopCycle == true);   
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            lbTime.Text = DateTime.Now.ToString("HH:mm:ss");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            timer1.Start();
+        }
+
+        private void btnSecond_Click(object sender, EventArgs e)
+        {
+            int second = int.Parse(txtSecond.Text);
+            string key = txtKey.Text;
+            sc.runSecond(second, key);
+        }
+
+        private void btnEditSecond_Click(object sender, EventArgs e)
+        {
+            int second = int.Parse(txtSecond.Text);
+            string key = txtKey.Text;
+            sc.updateSecond(second, key);
+        }
+
+        private void btnLoop_Click(object sender, EventArgs e)
+        {
+            int second = int.Parse(txtSecond.Text);
+            string key = txtKey.Text;
+            sc.repeatJob(second, key);
         }
     }
 }

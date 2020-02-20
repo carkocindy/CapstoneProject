@@ -14,7 +14,8 @@ namespace TestSchedule
     {
         public void Execute(IJobExecutionContext context)
         {
-            MessageBox.Show("Hệ thống lương đã được cập nhật vào lúc " + DateTime.Now);
+            MessageBox.Show("Hệ thống lương đã được cập nhật " + DateTime.Now);
         }
+
     }
 }
